@@ -100,3 +100,9 @@ The following tables show the differences between using external access (federat
 [External access in Teams](manage-external-access.md)
 
 [Guest access in Teams](guest-access.md)
+
+Note:  Be added to a group chat now available for both external and Guests access, due to the public on demand the feature is now available globally
+please refer to the below two links
+https://microsoftteams.uservoice.com/forums/555103-public/suggestions/38322514-allow-external-users-to-access-group-chat
+
+https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=51126
